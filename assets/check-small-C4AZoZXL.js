@@ -1,0 +1,1 @@
+import{r as e}from"./iframe-BaE-r_tL.js";import"./preload-helper-PPVm8Dsz.js";const n=t=>e.createElement("svg",{width:16,height:16,viewBox:"0 0 16 16",fill:"none",xmlns:"http://www.w3.org/2000/svg",...t},e.createElement("path",{d:"M4.5 8L7 10.5L11.5 6",stroke:"currentColor",strokeWidth:1.5,strokeLinecap:"round",strokeLinejoin:"round"}));export{n as default};
